@@ -1,0 +1,16 @@
+# Core LangChain
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-community==0.3.14
+langchain-anthropic==0.3.4
+
+# LLM Provider
+anthropic>=0.40.0
+
+# Tools & Utilities
+duckduckgo-search>=6.3.7
+wikipedia>=1.4.0
+python-dotenv>=1.0.0
+
+# Optional – for richer output / PDF knowledge tool
+pypdf>=4.0.0
